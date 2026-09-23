@@ -32,7 +32,9 @@ patch=1,EE,D15A9634,extended,00000006
 patch=1,EE,015A9634,extended,00000005
 
 patch=1,EE,D15A9534,extended,00000006
-patch=1,EE,015A9534,extended,00000005patch=1,EE,D15A9434,extended,00000006
+patch=1,EE,015A9534,extended,00000005
+
+patch=1,EE,D15A9434,extended,00000006
 patch=1,EE,015A9434,extended,00000005
 
 patch=1,EE,D15A9334,extended,00000006
