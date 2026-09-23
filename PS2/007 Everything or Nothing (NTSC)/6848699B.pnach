@@ -1,0 +1,19 @@
+comment=007 - Everything or Nothing (USA) (SLUS_212.74) (by Adm Cristian)
+
+//DNAS Bypass
+patch=1,EE,D17A4F0C,extended,00000006
+patch=1,EE,017A4F0C,extended,00000005
+
+//DNAS Patch 2 (ps2rd/cb7+)
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,10E40F7A,extended,0000AC80
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,00E40F80,extended,00000000
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,20E40F94,extended,ACE00004
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,20E40FC0,extended,03E00008
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,10E40FC6,extended,0000ACC3
+patch=1,EE,D0E40FBE,extended,000003E0
+patch=1,EE,20E40FBC,extended,34030005
