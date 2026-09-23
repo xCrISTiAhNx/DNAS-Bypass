@@ -1,0 +1,11 @@
+comment=Dance Dance Revolution Extreme 2 (USA) (SLUS_211.74) (by Adm Cristian)
+
+//DNAS Bypass
+patch=1,EE,D18842F4,extended,00000006
+patch=1,EE,018842F4,extended,00000005
+
+//DNAS Bypass 2
+patch=1,EE,D1904BB0,extended,00000007
+patch=1,EE,01904BB0,extended,00000005
+patch=1,EE,D1904BB0,extended,00000006
+patch=1,EE,01904BB0,extended,00000005
